@@ -16,6 +16,7 @@
 - 121 Best Time to Buy and Sell Stock;
 - 125 Valid Palindrome;
 - 136 Single Number;
+- 509 Fibonacci Number;
 - 709 To Lower Case;
 - 728 Self Dividing Numbers;
 - 744 Find Smallest Letter Greater Than Target;
@@ -24,3 +25,7 @@
 - 884 Uncommon Words from Two Sentences;
 - 896 Monotonic Array;
 - 897 Increasing Order Search Tree;
+- 938 Range Sum of BST;
+- 944 Delete Columns to Make Sorted;
+- 961 N-Repeated Element in Size 2N Array;
+- 965 Univalued Binary Tree;
