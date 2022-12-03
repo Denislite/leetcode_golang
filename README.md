@@ -29,3 +29,8 @@
 - 944 Delete Columns to Make Sorted;
 - 961 N-Repeated Element in Size 2N Array;
 - 965 Univalued Binary Tree;
+- 2032 Two Out of Three;
+- 2042 Check if Numbers Are Ascending in a Sentence;
+- 2053 Kth Distinct String in an Array;
+- 2057 Smallest Index With Equal Value;
+- 2068 Check Whether Two Strings are Almost Equivalent;
