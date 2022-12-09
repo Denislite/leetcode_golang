@@ -29,6 +29,11 @@
 - 944 Delete Columns to Make Sorted;
 - 961 N-Repeated Element in Size 2N Array;
 - 965 Univalued Binary Tree;
+- 1013 Partition Array Into Three Parts With Equal Sum;
+- 1018 Binary Prefix Divisible By 5;
+- 1528 Shuffle String;
+- 1523 Count Odd Numbers in an Interval Range;
+- 1539 Kth Missing Positive Number
 - 1837 Sum of Digits in Base K;
 - 1869 Longer Contiguous Segments of Ones than Zeros;
 - 1897 Redistribute Characters to Make All Strings Equal;
